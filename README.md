@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d6e7145f-63de-4a7e-b97e-371e7d6285aa)# Lung Cancer Prediction Project
+# Lung Cancer Prediction Project
+
 
 ## Project Overview
 This project involves an in-depth analysis and prediction of Cancer patient's insights into patient's categorical data. The analysis leverages various visualization techniques to represent data effectively and make informed decisions.
@@ -44,14 +45,21 @@ The dataset includes various columns such as:
 ## Visualizations
 
 ### Probability Level of Lung Cancer Among Patients
-![image](https://github.com/user-attachments/assets/6c5d699a-15c2-4797-b04d-5ebc48c268eb)
-
-
-### Courier Status Distribution
-![image](https://github.com/user-attachments/assets/e1e42f36-83cf-4851-99dd-8e5be735d96b)
-###  Size Distribution
-![image](https://github.com/user-attachments/assets/7cc3735b-0fa3-47b6-ae13-39c2e7fe8cfa)
-
+![image](https://github.com/user-attachments/assets/d6e7145f-63de-4a7e-b97e-371e7d6285aa)
+### Heatmap of Health Risks
+![image](https://github.com/user-attachments/assets/a04f4f63-46bb-43e8-81d2-c0f6493893fd)
+### Chronic Lung Disease Prevalence by Occupational Hazards
+![image](https://github.com/user-attachments/assets/7a3b263c-316c-4df5-87a6-5490c134471e)
+### Chronic Lung Disease Prevalence by Occupational Hazards
+![image](https://github.com/user-attachments/assets/733b85cf-4147-48bb-9ee1-cc3e39af96fe)
+### Histogram
+![image](https://github.com/user-attachments/assets/67e7b86b-5f9e-4d6b-ba3b-4f82e71045e7)
+### Finding a correlation between the features
+![image](https://github.com/user-attachments/assets/24396def-79a3-432f-9f9e-d0bf61c8e406)
+### Visualization of the Decision Tree
+![image](https://github.com/user-attachments/assets/0c0a787e-b203-4a41-a393-aea7d0089eb6)
+### Confusion Matrices for all the Models
+![image](https://github.com/user-attachments/assets/ecc51fbe-9822-4faf-9ee1-49d18569e4e0)
 
 ## Conclusion
 This study provides valuable insights into the factors affecting cancer mortality and survival among patients. By analyzing key health risk factors such as age, smoking status, air pollution, genetic risk, and other health conditions, we can better understand the complex interactions that contribute to survival outcomes. Probability analysis highlights the relative risks associated with these variables, while health risk analysis identifies critical contributors to patient prognosis.
@@ -74,8 +82,6 @@ Further analysis could include:
 - **Longitudinal Study for Monitoring Health Progress:** Establish a long-term study to observe changes in health risk factors and survival over time.
 - **Optimization of Hyperparameters through Automated Tuning:** Improve model performance by optimizing hyperparameters in an efficient, systematic way.
 - **Inclusion of Genetic and Biomarker Data:** Enhance model precision by incorporating genetic and biomarker data, which can be highly indicative of cancer progression and survival.
-
-Continuous data monitoring and analysis will help adapt strategies to meet changing market demands and improve business outcomes.
 
 ## Dataset Source
 Kaggle: kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link/data
