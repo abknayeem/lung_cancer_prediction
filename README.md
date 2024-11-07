@@ -75,7 +75,6 @@ In conclusion, this analysis underscores the importance of both traditional stat
 
 ## Future Work
 Further analysis could include:
-- **Analysis with AdaBoost Classifier:** Create more sophisticated features that capture interactions between risk factors.
 - **Integration of Deep Learning Models:** Leverage the ability of deep learning models to capture complex patterns and relationships in large datasets.
 - **Use of Survival Analysis Techniques:** Apply survival analysis methods to model time-to-event data, providing insights not just into survival but also into the duration of survival after diagnosis.
 - **Explainable AI for Model Interpretability:** Enhance the interpretability of complex models to make predictions more transparent and understandable for medical professionals.
