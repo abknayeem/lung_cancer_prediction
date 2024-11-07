@@ -1,6 +1,5 @@
 # Lung Cancer Prediction Project
 
-
 ## Project Overview
 This project involves an in-depth analysis and prediction of Cancer patient's insights into patient's categorical data. The analysis leverages various visualization techniques to represent data effectively and make informed decisions.
 
@@ -44,21 +43,21 @@ The dataset includes various columns such as:
 
 ## Visualizations
 
-### Probability Level of Lung Cancer Among Patients
+### Probability Level
 ![image](https://github.com/user-attachments/assets/d6e7145f-63de-4a7e-b97e-371e7d6285aa)
 ### Heatmap of Health Risks
 ![image](https://github.com/user-attachments/assets/a04f4f63-46bb-43e8-81d2-c0f6493893fd)
-### Chronic Lung Disease Prevalence by Occupational Hazards
+### Age Distribution by Chronic Lung Disease
 ![image](https://github.com/user-attachments/assets/7a3b263c-316c-4df5-87a6-5490c134471e)
 ### Chronic Lung Disease Prevalence by Occupational Hazards
 ![image](https://github.com/user-attachments/assets/733b85cf-4147-48bb-9ee1-cc3e39af96fe)
-### Histogram
+### Histograms
 ![image](https://github.com/user-attachments/assets/67e7b86b-5f9e-4d6b-ba3b-4f82e71045e7)
-### Finding a correlation between the features
+### Correlation Between The Features
 ![image](https://github.com/user-attachments/assets/24396def-79a3-432f-9f9e-d0bf61c8e406)
 ### Visualization of the Decision Tree
 ![image](https://github.com/user-attachments/assets/0c0a787e-b203-4a41-a393-aea7d0089eb6)
-### Confusion Matrices for all the Models
+### Confusion Matrices of Testing Model
 ![image](https://github.com/user-attachments/assets/ecc51fbe-9822-4faf-9ee1-49d18569e4e0)
 
 ## Conclusion
