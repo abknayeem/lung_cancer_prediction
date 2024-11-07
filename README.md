@@ -55,12 +55,12 @@ The dataset includes various columns such as:
 ![image](https://github.com/user-attachments/assets/67e7b86b-5f9e-4d6b-ba3b-4f82e71045e7)
 ### Correlation Between The Features
 ![image](https://github.com/user-attachments/assets/24396def-79a3-432f-9f9e-d0bf61c8e406)
-### Training and Testing Scores for all the Models
-<img width="526" alt="image" src="https://github.com/user-attachments/assets/118b7cb9-490f-43dc-a9a6-65fecd276c67">
-
-
 ### Visualization of the Decision Tree
 ![image](https://github.com/user-attachments/assets/0c0a787e-b203-4a41-a393-aea7d0089eb6)
+### Training and Testing Scores for all the Models
+<img width="1052" alt="image" src="https://github.com/user-attachments/assets/118b7cb9-490f-43dc-a9a6-65fecd276c67">
+
+
 ### Confusion Matrices of Testing Model
 ![image](https://github.com/user-attachments/assets/ecc51fbe-9822-4faf-9ee1-49d18569e4e0)
 
